@@ -83,7 +83,7 @@ mistune==0.8.3
 more-itertools==5.0.0
 nbconvert==5.4.0
 nbformat==4.4.0
-notebook==5.6.0
+notebook==6.4.10
 numpy==1.15.2
 openpyxl==2.4.11
 pandas==0.23.3
