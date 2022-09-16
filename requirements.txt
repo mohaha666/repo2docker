@@ -75,7 +75,7 @@ linear-tsv==1.1.0
 lml==0.0.2
 lxml==4.3.0
 macropy3==1.1.0b2
-Mako==1.0.7
+Mako==1.2.2
 Markdown==3.0
 MarkupSafe==1.0
 matplotlib==2.2.2
