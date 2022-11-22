@@ -92,7 +92,7 @@ parsedatetime==2.0
 parso==0.3.1
 pathlib2==2.3.0
 pickleshare==0.7.4
-Pillow==6.0.0
+Pillow==9.3.0
 pluggy==0.8.1
 polyline==1.3.2
 prometheus-client==0.3.1
